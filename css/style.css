@@ -1,0 +1,36 @@
+@import url("@import url('https://fonts.googleapis.com/css?family=Alata&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/logo.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Alata', sans-serif;
+	font-size: 23px;
+	color: #555555;
+	font-weight: bold;
+}
+
+h1, h2, h3 {
+	font-family: 'Alata', serif;
+	font-size: 32px;
+	color: #07393E;
+}
+
+
+p{
+	text-align: justify;
+	line-height: 30px;
+}
+h4{
+	font-family: 'Alata', serif;
+	color: #A9B616;
+	text-align: center;
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+}
